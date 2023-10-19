@@ -1,0 +1,41 @@
+body {
+background: #1e81b0;
+font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+color: #21130d;
+text-align: center;
+}
+
+assign {
+display: flex;
+padding: 10px;
+margin: 10px;
+background: #e28743;
+}
+.assign img {
+width: 200px;
+padding: 10px;
+}
+
+assign {
+display: flex;
+padding: 10px;
+margin: 10px;
+background: #abdbe3;
+}
+.assign img {
+width: 200px;
+padding: 10px;
+}
+
+.assign {
+display: flex;
+padding: 10px;
+margin: 10px;
+background: #76b5c5;
+}
+.assign img {
+width: 200px;
+padding: 10px;
+}
